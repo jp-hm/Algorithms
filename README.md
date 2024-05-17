@@ -1,6 +1,6 @@
-# Algorithms
+# Exercises
 
-This repository contains a collection of algorithm exercises.
+This repository contains a collection of exercises.
 
 ## Languages
 
